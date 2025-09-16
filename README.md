@@ -68,3 +68,4 @@ The project simulates a real-world use case: a fertilizer company wants to autom
 1. Clone this repository:
    ```bash
    git clone https://github.com/Hedau0404/AI-Capstone-Project-Satellite-Image-Classification.git
+2. Start executing and learning each module and each lesson in order from M1L1 -> M4L1
