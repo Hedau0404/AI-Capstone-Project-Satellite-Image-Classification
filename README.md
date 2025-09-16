@@ -5,6 +5,7 @@ AI Capstone Project: Deep learning models for classifying agricultural vs non-ag
 
 **Course:** IBM AI Engineering Capstone (Coursera)  
 **Author:** Prathamesh Hedau
+
 **Tools & Frameworks:** Python, Jupyter, Keras, PyTorch, Vision Transformers  
 
 ---
